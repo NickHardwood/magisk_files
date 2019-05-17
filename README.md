@@ -11,4 +11,6 @@ Add EdXposed needed SELinux rules to magiskinit, for those ROMs which don't supp
 https://raw.githubusercontent.com/solohsu/magisk_files/master/custom_builds/release.json
 
 ## Versions
-- v19.1(19102): Built from https://github.com/solohsu/Magisk/tree/v19.1_edxposed
+### v19.1(19102)
+- Built from https://github.com/solohsu/Magisk/tree/v19.1_edxposed
+- Download link: https://github.com/solohsu/magisk_files/raw/master/custom_builds/Magisk-v19.1.zip
