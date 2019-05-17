@@ -5,7 +5,10 @@ This repo hosts Magisk files: it is like a file server for Magisk Manager.
 https://github.com/solohsu/Magisk
 
 ## What's different from official version
-- Add EdXposed needed SELinux rules to magiskinit, for those ROMs which don't support sepolicy dynamically tweaking e.g. EMUI 9.
+Add EdXposed needed SELinux rules to magiskinit, for those ROMs which don't support sepolicy dynamically tweaking e.g. EMUI 9.
+
+## Custom update channel
+https://raw.githubusercontent.com/solohsu/magisk_files/master/custom_builds/release.json
 
 ## Versions
-# v19.1(19002): Built from https://github.com/solohsu/Magisk/tree/v19.1_edxposed
+- v19.1(19002): Built from https://github.com/solohsu/Magisk/tree/v19.1_edxposed
