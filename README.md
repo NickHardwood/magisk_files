@@ -20,3 +20,6 @@ https://raw.githubusercontent.com/solohsu/magisk_files/master/custom_builds/rele
 ### v19.3(19301)
 - Built from https://github.com/solohsu/Magisk/tree/v19.3_edxposed
 - Download link: https://github.com/solohsu/magisk_files/raw/master/custom_builds/Magisk-v19.3.zip
+### v20.0(20001)
+- Built from https://github.com/solohsu/Magisk/tree/v20.0_edxposed
+- Download link: https://github.com/solohsu/magisk_files/raw/master/custom_builds/Magisk-v20.0.zip
