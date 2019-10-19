@@ -10,7 +10,7 @@
   },
   "magisk": {
     "version": "20.0",
-    "versionCode": "20000",
+    "versionCode": "20001",
     "link": "https://github.com/solohsu/magisk_files/raw/master/custom_builds/Magisk-v20.0.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/2d7ddefbe4946806de1875a18247b724f5e7d4a0/notes.md",
     "md5": "79f8a8489f9c8baa3b66f37b57189fe5"
